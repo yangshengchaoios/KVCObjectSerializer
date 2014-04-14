@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>39CC9504-A93B-453B-B16F-6D7E09F8A6B4</string>
+	<key>IDESourceControlProjectName</key>
+	<string>JSONTest</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>11078E96-7137-4D35-B605-FF0FC4A63832</key>
+		<string>https://github.com/yangshengchaoios/KVCObjectSerializer.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>JSONTest.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>11078E96-7137-4D35-B605-FF0FC4A63832</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/yangshengchaoios/KVCObjectSerializer.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>11078E96-7137-4D35-B605-FF0FC4A63832</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>11078E96-7137-4D35-B605-FF0FC4A63832</string>
+			<key>IDESourceControlWCCName</key>
+			<string>KVCObjectSerializer</string>
+		</dict>
+	</array>
+</dict>
+</plist>
